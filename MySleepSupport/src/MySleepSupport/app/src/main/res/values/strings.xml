@@ -1,0 +1,5 @@
+<resources>
+        <string name="app_name">MySleepSupport</string>
+        <string name="label_count">制限回数　</string>
+    <string name="label_result">結果</string>
+</resources>

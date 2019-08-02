@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:commons-base:0.10.8@aar">
+    <CLASSES>
+      <root url="jar://C:/File/caches/transforms-2/files-2.1/dc72f66f5eaf069be4235a3ed87f2425/jars/classes.jar!/" />
+      <root url="file://C:/File/caches/transforms-2/files-2.1/dc72f66f5eaf069be4235a3ed87f2425/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/File/caches/modules-2/files-2.1/org.jetbrains.anko/commons-base/0.10.8/a7b9886dd34c114aebcbcd7c492855425b2300e1/commons-base-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
